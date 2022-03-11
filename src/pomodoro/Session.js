@@ -37,12 +37,11 @@ export default function Session({Currentsession, stop, pause, breakDuration, foc
             // ) 
            style={{ width: `${100-( (100*Currentsession?.timeRemaining) / (duration * 60))}%`}}
           />
-        </div>
+        </div>  
       </div>
     </div>
   </div>
  )
 }
-
  
 

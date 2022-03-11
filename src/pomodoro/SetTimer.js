@@ -99,4 +99,3 @@ export default function SetTimer({breakDuration, focusDuration, setBreakDuration
       </div>
     )
 }
-
